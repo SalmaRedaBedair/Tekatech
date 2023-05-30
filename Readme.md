@@ -4,6 +4,8 @@ ___
 - Explain main concept in an intersting way 
 - Give them some problems and let them make codeforces acount and will give them their tasks on it 
 - Make 3 contests like ecpc with ballons and awards to let them love the training
+- that training is not to quilify them for compatitive programming
+- problem solving is used to improve their skills in writing and debugging code
 
 ## cpp & oop (7-10 days)
 - explain main concepts remember to explain pointers
@@ -20,5 +22,5 @@ ___
 - stack (1 day)
 - queue & deque (1 day)
 - linked list (1 day)
-- binary search trees: may be will explain it with no implementation (1 day)
-- set & map: may be will explain it with no implementation (1 day)
+- binary search trees: may be explained with no implementation (1 day)
+- set & map: may be explained with no implementation (1 day)
