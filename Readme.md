@@ -7,17 +7,17 @@ ___
 - that training is not to quilify them for compatitive programming
 - problem solving is used to improve their skills in writing and debugging code
 
-## cpp & oop (7-10 days)
+## Cpp & OOP (7-10 days)
 - explain main concepts remember to explain pointers
 - will give examples like prefix sum and frequency array
 - make one project with them, it will contain all i have explained and will be enjoyable for them
 
-## algorithms (2-5 days)
+## Algorithms (2-5 days)
 - linear search, binary search, two pointers (1 day)
 - sorting algoritms: select 2 or more methods to explain (1-2 days)
 - recursion (1 day) (may be explained or not)
 - divide and conquer (1 day) (may be explained or not)
-## data structure (6 days)
+## Data Structure (6 days)
 - vector (1 day)
 - stack (1 day)
 - queue & deque (1 day)
