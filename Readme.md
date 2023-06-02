@@ -24,3 +24,6 @@ ___
 - linked list (1 day)
 - binary search trees: may be explained with no implementation (1 day)
 - set & map: may be explained with no implementation (1 day)
+## Refrances
+- introduction to algorithms book
+- head first anaysis and design book
