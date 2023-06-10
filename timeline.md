@@ -22,3 +22,6 @@
   - show lower_bound & upper_bound during explaining
 - set & map
 - recursion 
+
+# notes
+- learn them to calculate time
