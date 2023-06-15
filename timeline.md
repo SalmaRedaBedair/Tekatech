@@ -1,14 +1,18 @@
-# C++
+ # C++
+- syntax before loops
+- loops
 - arrays
   - prefix sum
   - frequency array 
   - sliding window
+- pointers
 - functions
   - brief about recursion
 
 # OOP
 - focus on making organize project, can be modulated easly, can add new functionality, understandable
 - will use UML class
+- explain main concepts
 
 # datastructure & algorithms
 - counting sort
@@ -24,4 +28,4 @@
 - recursion 
 
 # notes
-- learn them to calculate time
+- learn them to calculate time 
