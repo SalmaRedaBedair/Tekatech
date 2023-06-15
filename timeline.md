@@ -1,5 +1,5 @@
  # C++
-- syntax before loops
+- syntax
 - loops
 - arrays
   - prefix sum
