@@ -9,7 +9,7 @@
 - functions
   - brief about recursion
 
-# OOP
+# OOP (may be cancelled)
 - focus on making organize project, can be modulated easly, can add new functionality, understandable
 - will use UML class
 - explain main concepts
