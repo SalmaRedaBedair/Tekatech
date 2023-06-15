@@ -1,5 +1,5 @@
- # C++
-- syntax
+# C++
+- syntax before loops
 - loops
 - arrays
   - prefix sum
@@ -25,6 +25,7 @@
 - binary search tree
   - show lower_bound & upper_bound during explaining
 - set & map
+- using STLs in c++
 - recursion 
 
 # notes
