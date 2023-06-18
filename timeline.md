@@ -15,7 +15,7 @@
 - explain main concepts
 
 # datastructure & algorithms
-- counting sort
+- sorting algorithms
 - linear search
 - vector
 - stack
