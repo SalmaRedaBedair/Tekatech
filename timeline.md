@@ -7,7 +7,7 @@
   - sliding window
 - pointers
 - functions
-  - brief about recursion
+  - recursion
 
 # OOP (may be cancelled)
 - focus on making organize project, can be modulated easly, can add new functionality, understandable
@@ -17,6 +17,7 @@
 # datastructure & algorithms
 - sorting algorithms
 - linear search
+- binary search
 - vector
 - stack
 - queue
@@ -26,7 +27,6 @@
   - show lower_bound & upper_bound during explaining
 - set & map
 - using STLs in c++
-- recursion 
 
 # notes
 - learn them to calculate time 
