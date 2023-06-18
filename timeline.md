@@ -17,14 +17,14 @@
 # datastructure & algorithms
 - sorting algorithms
 - linear search
+- binary search tree
+  - show lower_bound & upper_bound during explaining
 - binary search
 - vector
 - stack
 - queue
 - deque
 - linked list
-- binary search tree
-  - show lower_bound & upper_bound during explaining
 - set & map
 - using STLs in c++
 
